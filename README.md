@@ -3,3 +3,8 @@ AWS S3 Static Website Hosting project demonstrating how to deploy a public websi
 ## Live Website
 
 http://ivan-s3-static-website-lab1.s3-website-us-east-2.amazonaws.com
+## Technologies Used
+- AWS S3
+- Static Website Hosting
+- HTML
+- Cloud Storage
