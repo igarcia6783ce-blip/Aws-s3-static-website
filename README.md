@@ -5,6 +5,7 @@ This project demonstrates how to host a static website using AWS S3, including c
 
 ## Live Website
 http://ivan-s3-static-website-lab1.s3-website-us-east-2.amazonaws.com
+Note: Public access was enabled via bucket policy and block public access settings to allow the site to be accessible.
 
 ## Technologies Used
 - AWS S3
